@@ -52,12 +52,14 @@ https://mvp.microsoft.com/en-us/Summit/Index
 
 ## 租车
 1.	写着CAR POOL LANE的车道，是车上有2人以上（包括司机）的情况用的，单独出行会被重罚，美国很多司机喜欢举报别人违法的。就是这种：
+![image](https://raw.githubusercontent.com/EdiWang/mvpsummit2019-cn-guide/master/img/pool.png)
 2.	看见STOP路标一定要完全停车，不管有没有人，然后再起步。
 3.	如果发现被警察尾随了很长时间，你需要靠路边停车，千万不要主动下车，会被爆头！打开车窗，双手放在方向盘上，保证警察能看到你的双手。
 4.	美国车的手刹经常在方向盘的后面。
 5.	速度表是mile，不是km/h，注意不要超速，导航可以设置单位为mile，而不是国内的km。
 6.	路不一定叫Road，可能叫AVE、BLVD。
 7.	左转道和中国不一样，和直行道不是平齐的，经常比直行道更前面，就像这样：
+![image](https://raw.githubusercontent.com/EdiWang/mvpsummit2019-cn-guide/master/img/car.png)
 
 # 行李参考
 
