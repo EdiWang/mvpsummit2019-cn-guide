@@ -49,7 +49,7 @@ https://mvp.microsoft.com/en-us/Summit/Index
     **面试官问你要什么拿什么，千万别自己拿出来**
 4.	领取VISA签证，签证是印刷在护照上的。
 
-**已经有签证的，需要在网上登记EVUS（https://www.evus.gov）再去美国。**
+**已经有签证的，需要在网上登记EVUS再去美国。** 网址是：https://www.evus.gov 填写的时候 National Identification Number 是身份证的意思。
 
 ## 准备工作和美国注意事项
 
